@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ugheengoof.les-leach.com/sitemap.xml
